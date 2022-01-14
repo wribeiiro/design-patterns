@@ -1,0 +1,16 @@
+{
+    "name": "wribeiiro/design-patterns",
+    "description": "Simple examples of design patterns using php",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wellisson Ribeiro",
+            "email": "welleh10@gmail.com"
+        }
+    ],
+    "require": {}
+}
