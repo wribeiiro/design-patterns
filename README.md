@@ -18,13 +18,13 @@
 
 - O Prototype é um padrão de projeto criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
 
-#### Singleton
+#### Singleton Adapter [click here](./src/creational/singleton/realworld).
 
 - O Singleton que é um padrão classificado como sendo um padrão criacional. Esse padrão possui a responsabilidade de criar apenas uma única instância de um determinado objeto, garantindo dessa maneira que o objeto em si, tenha apenas um ponto de acesso de maneira global.
 
 ## Estruturais
 
-#### Adapter
+#### Adapter [click here](./src/structural/adapter/realworld).
 
 - O Adapter possui a responsabilidade de converter interfaces incompatíveis em interfaces que as classes concretas (cliente) estejam aguardando. Ou seja, basicamente ele faz com que haja um trabalho em conjunto entre as interfaces incompatíveis fazendo com que a integridade seja mantida.
 
